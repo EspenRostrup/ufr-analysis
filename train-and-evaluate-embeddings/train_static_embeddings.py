@@ -8,7 +8,7 @@ tqdm.pandas()
 
 
 def main():
-    EMBEDDING_DIMENSIONS = 200
+    EMBEDDING_DIMENSIONS = 300
     MOVING_WINDOW = 5
     SEED = 1
     MIN_COUNT = 200
